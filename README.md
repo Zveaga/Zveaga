@@ -1,6 +1,10 @@
 # Hi there and welcome to my profile.<br>
 
 My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.
+I'm currently mastering C and C++, with other languages coming in the near future.
+
+- Currenty working on  |[C++ problems sets](https://github.com/Zveaga/CPP-Modules)
+
 
 <!--
 **Zveaga/Zveaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
