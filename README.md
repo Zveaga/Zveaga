@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there and welcome to my profile.
+My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.
 
 <!--
 **Zveaga/Zveaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
