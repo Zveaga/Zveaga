@@ -1,7 +1,7 @@
-# Hi there and welcome to my profile.<br>
+# Hi there and welcome to my profile.
 
-My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.
-I'm currently mastering C and C++, with other languages coming in the near future.
+My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.<br>
+I'm currently learning C and C++, with other languages coming in the near future.
 
 # Currenty working on:
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
