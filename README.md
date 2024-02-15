@@ -2,9 +2,9 @@
 
 My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.<br>
 
-I'm currently learning C and C++, with other languages coming in the near future.
+I'm currently learning C and C++, with other languages coming soon.
 
-## Currenty working on:
+## Currently working on:
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
 ## Some projects that might interest you:
 - [Own shell implementation based on Bash](https://github.com/DscrtDv/Minishell_42)
