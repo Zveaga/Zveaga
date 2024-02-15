@@ -1,4 +1,4 @@
-Hi there and welcome to my profile.
+Hi there and welcome to my profile.<br>
 My name is Rares and I am a software engineering student at Codam Coding College in Amsterdam.
 
 <!--
