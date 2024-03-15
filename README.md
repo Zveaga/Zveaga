@@ -6,7 +6,7 @@ I'm currently learning C and C++, with other languages coming soon.
 
 ## Currently working on:
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
-- [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
+- [A web scrapper](https://github.com/Zveaga/CPP-Modules)
 
 ## Some projects that might interest you:
 - [Own shell implementation based on Bash](https://github.com/DscrtDv/Minishell_42)
