@@ -6,7 +6,7 @@ I'm currently learning C and C++, with other languages coming soon.
 
 ## Currently working on:
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
-- [A web scrapper](https://github.com/Zveaga/web_scrapper)
+- [REST API Client](https://github.com/Zveaga/web_scrapper)
 - [Hangman game](https://github.com/Zveaga/Hangman-Game/tree/main)
 
 ## Some projects that might interest you:
