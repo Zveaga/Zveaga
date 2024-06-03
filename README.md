@@ -5,7 +5,7 @@ My name is Rares and I am an aspiring software engineering currently studying at
 I'm currently learning C and C++, with other languages coming soon.
 
 ## Currently working on:
-- [HTTP Server (teamproject)](https://github.com/elmoiswack/webserv)
+- [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
 - [REST API Client](https://github.com/Zveaga/web_scrapper)
 - [Hangman game](https://github.com/Zveaga/Hangman-Game/tree/main)
