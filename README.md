@@ -5,10 +5,10 @@ My name is Rares and I am an aspiring software engineering currently studying at
 I'm currently learning C and C++, with other languages coming soon.
 
 ## Currently working on:
+- [Api Client (JS)](https://github.com/Zveaga/API_client_JS)
 - [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
 - [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
 - [Hangman game](https://github.com/Zveaga/Hangman-Game/tree/main)
-- [Api Client (JS)](https://github.com/Zveaga/API_client_JS)
 
 ## Some projects that might interest you:
 - [Own shell implementation based on Bash](https://github.com/DscrtDv/Minishell_42)
