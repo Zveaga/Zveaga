@@ -2,7 +2,7 @@
 
 My name is Rares and I am an aspiring software engineering currently studying at Codam Coding College in Amsterdam.<br>
 
-My stack: C, C++, JavaScript
+My stack: C, C++, JavaScript, CSS, HTML
 
 ## Currently working on:
 - [Api Client (JS)](https://github.com/Zveaga/API_client_JS)
