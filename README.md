@@ -5,10 +5,7 @@ My name is Rares and I am an aspiring software engineering currently studying at
 My stack: C, C++, JavaScript, CSS, HTML
 
 ## Currently working on:
-- [Api Client (JS)](https://github.com/Zveaga/API_client_JS)
 - [Pong Game (team project)](https://github.com/Orpheus-3145/transcendence)
-- [C++ problem sets](https://github.com/Zveaga/CPP-Modules)
-- [Docker](https://github.com/Zveaga/Inception)
 
 ## Some projects that might interest you:
 - [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
