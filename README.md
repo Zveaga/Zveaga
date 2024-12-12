@@ -2,7 +2,7 @@
 
 My name is Rares and I am an aspiring software engineering currently studying at Codam Coding College in Amsterdam.<br>
 
-My stack: C, C++, JavaScript, CSS, HTML
+My stack: C++, C, JavaScript, React, TypeScript, CSS, HTML
 
 ## Currently working on:
 - [Pong Game (team project)](https://github.com/Orpheus-3145/transcendence)
