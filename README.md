@@ -10,7 +10,7 @@ My stack: C++, C, JavaScript, React, TypeScript, CSS, HTML
 ## Some projects that might interest you:
 - [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
 - [Own shell implementation based on Bash](https://github.com/DscrtDv/Minishell_42)
-- [A 3D game using a raycasting engine](https://github.com/Zveaga/Cub_3d)
+- [A 3D game using a raycasting engine (team project)](https://github.com/Zveaga/Cub_3d)
 - [REST API Client](https://github.com/Zveaga/web_scrapper)
 
 <!--
