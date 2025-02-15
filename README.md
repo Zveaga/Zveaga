@@ -6,6 +6,7 @@ My stack: C++, C, JavaScript, React, TypeScript, CSS, HTML
 
 ## Currently working on:
 - [Pong Game (team project)](https://github.com/Orpheus-3145/transcendence)
+- [Expense Splitter](https://github.com/Zveaga/expense_splitter_react)
 
 ## Some projects that might interest you:
 - [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
