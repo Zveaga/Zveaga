@@ -4,8 +4,10 @@ My name is Rares and I am a junior software engineer currently studying at Codam
 
 My stack: C++, C, JavaScript, React, TypeScript, NestJS, CSS, HTML
 
+<!--
 ## Currently working on:
 - [Expense Splitter](https://github.com/Zveaga/expense_splitter_react)
+-->
 
 ## Some projects that might interest you:
 - [Pong Game (team project)](https://github.com/Orpheus-3145/transcendence)
