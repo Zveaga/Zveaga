@@ -10,6 +10,7 @@ My stack: C++, C, JavaScript, React, TypeScript, NestJS, CSS, HTML
 -->
 
 ## Some projects that might interest you:
+- [Expense Splitter](https://github.com/Zveaga/expense_splitter_react)
 - [Pong Game (team project)](https://github.com/Orpheus-3145/transcendence)
 - [HTTP Server (team project)](https://github.com/elmoiswack/webserv)
 - [Own shell implementation based on Bash](https://github.com/DscrtDv/Minishell_42)
