@@ -1,8 +1,9 @@
 # Hi there👋 Welcome to my profile
 
-My name is Rares and I am a junior software engineer currently studying at Codam Coding College in Amsterdam.<br>
+<!--My name is Rares and I am a junior software engineer currently studying at Codam Coding College in Amsterdam.<br> -->
 
-My stack: C++, C, JavaScript, React, TypeScript, NestJS, CSS, HTML
+
+My tech stack: C++, C, JavaScript, React, TypeScript, NestJS, CSS, HTML
 
 <!--
 ## Currently working on:
